@@ -1,0 +1,56 @@
+{
+    "name": "ParkMe",
+    "description": "The ParkMe app is a free app from INRIX, Inc. This app helps you find the cheapest, closest and available parking in real-time.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1548-parkme.jpg",
+    "tags": [
+        "have api",
+        "parking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/parkme\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ParkMe",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1548-parkme.jpg",
+            "humanURL": "http:\/\/www.parkme.com\/developers",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/parkme-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.parkme.com\/developers"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/parking-in-motion"
+        },
+        {
+            "type": "Email",
+            "url": "info@parkme.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@parkme.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ParkMe"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ParkMe"
+        }
+    ]
+}
